@@ -22,7 +22,7 @@ A fully responsive digital agency website built using HTML, CSS, and JavaScript.
 
 The contact form is integrated with EmailJS to send real-time email notifications directly to the admin without requiring a backend.
 
-##  Live Demo[
+##  Live Demo
 
 https://tiny-duckanoo-d3e255.netlify.app/#contact
 
