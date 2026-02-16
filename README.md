@@ -29,4 +29,3 @@ https://tiny-duckanoo-d3e255.netlify.app/#contact
 
 ---
 
-Built as a freelance-ready business website project.
